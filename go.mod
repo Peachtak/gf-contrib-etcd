@@ -1,4 +1,4 @@
-module mkluo123.xyz/gofg/gf/contrib/registry/etcd/v2
+module github.com/Peachtak/gf-contrib-etcd
 
 go 1.21
 
